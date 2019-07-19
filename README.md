@@ -5,7 +5,7 @@
 <h1 align="center">PolAir</h1>
 
 <p align="center">
-<a href="http://polair.co"><img src="readme-resources/badge.png alt="Download on the Play Store"/></a>
+<a href="http://polair.co"><img src="readme-resources/badge.png" width="200" height="100" alt="Download on the Play Store"/></a>
 </p>
 
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.

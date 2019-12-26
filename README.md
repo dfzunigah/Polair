@@ -20,9 +20,18 @@
 
 # 📺 Demo 
 
-## Gifs and screens
+<div align="center">
+  <p>DEMO 📹 [Spanish]</p>
+  <a href="https://youtu.be/mA9PMiBv3xI"><img src="https://img.youtube.com/vi/mA9PMiBv3xI/0.jpg" alt="Polair Demo"></a>
+</div>
 
 # 👻 Features
+
+- Login with Facebook.
+- Maps.
+- Bike routes.
+- Nearby bike workshops.
+- Pollution levels.
 
 # 📝 Changelog 
 
@@ -33,6 +42,7 @@ Please visit [the changelog file](https://github.com/dfzunigah/polair/blob/maste
 - [Valentina Zuñiga]()
 - [Fabian Lopez]()
 - [Daniel Zuñiga](https://linkedin.com/in/dfzunigah)
+- [Santiago Sanchez](https://www.linkedin.com/in/santiagosanchez28/)
 
 # 🔖 Licence
 
